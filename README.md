@@ -20,4 +20,9 @@
   * Weights obtained from trained neural network - 
     * Layer[0] :
     * Layer[1]
+    
+# Comments
+ * Hand crafted weights and the weights obtained from the trained network are not necessarilty identical. However they are more or less in the same proportion and produce similar results. 
+ * Higher learning rate reduces the number of iterations required for convergence of gradient descent. However, too large learning rate will fail to converge. 
+ * The optimum values of the weights could produce the target output values. 
   

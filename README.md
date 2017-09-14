@@ -6,17 +6,17 @@
   * Weights obtained from trained neural network - 
   
 * OR GATE
-  * Hand crafted weights - 
+  * Hand crafted weights - [-10,20,20]
   * Weights obtained from trained neural network - 
   
 * NOT GATE
-  * Hand crafted weights - 
+  * Hand crafted weights - [10, -20]
   * Weights obtained from trained neural network - 
   
 * XOR GATE
   * Hand crafted weights -
-    * Layer[0] :
-    * Layer [1] :
+    * Layer[0] : [[-10,20,20],[30,-20,-20]]
+    * Layer [1] : [-30,20,20]
   * Weights obtained from trained neural network - 
     * Layer[0] :
     * Layer[1]

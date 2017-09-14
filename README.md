@@ -1,1 +1,2 @@
-# BME-595-HW3
+# BME 595 - Homework 3
+## Tarutal Ghosh Mondal
